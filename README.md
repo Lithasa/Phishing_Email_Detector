@@ -1,3 +1,5 @@
+***Commands :***
+
 
 PS D:\phishing_email_detector> python -m venv venv 
 
@@ -17,7 +19,7 @@ PS D:\phishing_email_detector> pip install streamlit
 PS D:\phishing_email_detector> streamlit run app.py 
 
 
--Phishing Email Example :
+***Phishing Email Example :***
 
 
 Subject: Urgent: Verify Your Account Immediately
@@ -38,7 +40,7 @@ Bank of Trust Security Team
 
 
 
-An legitimate Email Example :
+***An legitimate Email Example :***
 
 
 Subject: Invoice Confirmation - Order #49328
