@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 PS D:\phishing_email_detector> python -m venv venv
 PS D:\phishing_email_detector> venv\Scripts\activate
 (venv) PS D:\phishing_email_detector> pip install -r requirements.txt
@@ -7,7 +7,7 @@ PS D:\phishing_email_detector> pip install streamlit
 PS D:\phishing_email_detector> streamlit run app.py 
 
 
-Phishing Email Example :
+-Phishing Email Example :
 
 
 Subject: Urgent: Verify Your Account Immediately
@@ -46,7 +46,3 @@ Best regards,
 Samantha Lee  
 Customer Support  
 GreenTech Supplies
-=======
-# Phishing_Email_Detector
-relavent codes
->>>>>>> 1e13609022f5266bc5294d3234fc31935d564604
