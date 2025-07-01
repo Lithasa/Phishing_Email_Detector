@@ -1,9 +1,19 @@
 
-PS D:\phishing_email_detector> python -m venv venv
+PS D:\phishing_email_detector> python -m venv venv 
+
+
 PS D:\phishing_email_detector> venv\Scripts\activate
+
+
 (venv) PS D:\phishing_email_detector> pip install -r requirements.txt
+
+
 PS D:\phishing_email_detector> python phishing_detector.py
+
+
 PS D:\phishing_email_detector> pip install streamlit
+
+
 PS D:\phishing_email_detector> streamlit run app.py 
 
 
